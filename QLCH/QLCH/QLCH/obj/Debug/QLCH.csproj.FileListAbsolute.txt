@@ -1,0 +1,10 @@
+D:\bai tap\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe.config
+D:\bai tap\QLCH\QLCH\QLCH\bin\Debug\QLCH.exe
+D:\bai tap\QLCH\QLCH\QLCH\bin\Debug\QLCH.pdb
+D:\bai tap\QLCH\QLCH\QLCH\obj\Debug\QLCH.csprojResolveAssemblyReference.cache
+D:\bai tap\QLCH\QLCH\QLCH\obj\Debug\QLCH.Form1.resources
+D:\bai tap\QLCH\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+D:\bai tap\QLCH\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.Cache
+D:\bai tap\QLCH\QLCH\QLCH\obj\Debug\QLCH.exe
+D:\bai tap\QLCH\QLCH\QLCH\obj\Debug\QLCH.pdb
+D:\bai tap\QLCH\QLCH\QLCH\obj\Debug\QLCH.Formql.resources
